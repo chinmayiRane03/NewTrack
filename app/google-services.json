@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084101862536",
+    "firebase_url": "https://trackonpark-c9a7d.firebaseio.com",
+    "project_id": "trackonpark-c9a7d",
+    "storage_bucket": "trackonpark-c9a7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084101862536:android:d715029664ca996d046b3d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084101862536-mo50ke0f7jbta61o8pet7s5c6qr7ke8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication1",
+            "certificate_hash": "e2f60e88a6461df7787422f8119d5f38d4c3ebb0"
+          }
+        },
+        {
+          "client_id": "1084101862536-bh02dft4kkf0d8i5hbmtlnsl1vu0cl0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI3eaHYc4ovRjKDuzqLl3zi7AJ8drS7Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084101862536-bh02dft4kkf0d8i5hbmtlnsl1vu0cl0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

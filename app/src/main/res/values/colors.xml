@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blueButton">#0079bf</color>
+
+    <color name="black">#000000</color>
+    <color name="black60">#99000000</color>
+    <color name="black12">#1F000000</color>
+
+    <color name="blue400">#4A89F3</color>
+    <color name="blue200">#DAE8FF</color>
+    <color name="lightgrey">#B2BABB</color>
+    <color name="login_bg_gradient_start">#013558</color>
+    <color name="login_bg_gradient_end">#17a7c1</color>
+    <color name="lowgray">#d1dcdc</color>
+
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
