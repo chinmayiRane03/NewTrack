@@ -18,7 +18,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Click"></activity>
+        <activity android:name=".ZoneView"></activity>
+        <activity android:name=".ZoneInfo" />
+        <activity android:name=".Click" />
         <activity android:name=".MapsActivity" />
         <activity android:name=".PrivacyPolicy" />
         <activity android:name=".Terms" />
