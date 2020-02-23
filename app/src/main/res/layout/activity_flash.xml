@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -11,11 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:alpha="0.04"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/bmc" />
+        app:srcCompat="@drawable/bmc"
+        android:layout_centerInParent="true"/>
 
     <TextView
         android:id="@+id/name"
@@ -23,11 +20,11 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-black"
         android:text="Track On Park"
+        android:autoSizeTextType="uniform"
         android:textColor="#000000"
-        android:textSize="40dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.499" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+        android:textSize="42sp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+
+        />
+</RelativeLayout>

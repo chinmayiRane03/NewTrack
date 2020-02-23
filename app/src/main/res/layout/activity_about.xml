@@ -46,6 +46,7 @@
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="@string/SPIT"
                 android:textSize="25sp"
+                android:layout_marginLeft="10dp"
                 android:textStyle="bold"
                 />
 
@@ -57,9 +58,8 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/describe"
             android:fontFamily="sans-serif"
-            android:layout_marginTop="10dp"/>
-
-
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"/>
         </LinearLayout>
 
     </ScrollView>

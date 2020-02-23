@@ -18,10 +18,9 @@ public class Register extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
-        btn_register =(Button) findViewById(R.id.register);
+       btn_register =(Button) findViewById(R.id.register);
         textBack=(TextView) findViewById(R.id.back);
         textLog=(TextView) findViewById(R.id.log);
-
         textBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
