@@ -27,12 +27,13 @@ In 1957, the Bharatiya Vidya Bhavan conceived the idea of establishing an engine
 
     <string name="write">In case of any difficulty, please contact us on:</string>
     <string name="mail">trackonpark@gmail.com</string>
-    <string name="help"><font size="20">One can register or sign in with their Google Account to the application.
-The main page of the application is divided into three main regions which are Log Entries, My Location, Settings.
-The number of abandoned vehicle along with their location details will be mentioned in the Log Entries.
-My Location will show you your current location.
-Settings is given for extra help purpose.
-In case of any difficulty,please contact us on trackonpark@gmail.com </font></string>
+    <string name="help"><font size="20"><li> One can register or sign in with their Google Account to the application.</li>\n
+        <li> The main page of the application is divided into three main regions which are Log Entries, My Location, Settings.</li>\n
+        <li> Log Entries contains options such as upload and retrieve to upload images to firebase and to retrieve information from firebase</li>\n
+        <li> My Location will show you your current location. </li>\n
+        <li> Settings is given for extra help purpose.</li> \n
+        <li>In case of any difficulty,please contact us on trackonpark@gmail.com </li>\n
+        </font></string>
 
     <string name="disclaimer"><font size="20">1.)This app is intended to be used only by the BMC officials. 2) The information contained on  Acquisition app and the Firebase linked with it,  is for general information purposes only. 3) Any unauthorized uploading of contents and /or violation of Intellectual property rights is the sole responsibility of the user. 4) We only collect photos uploaded on the application through the user’s login id for our dataset requirement. Except this, we don’t collect any personal information or data from the user. 5) In no event, we shall be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other arising out of or in connection with the use of the Service or the contents of the Service. 6) We reserve the right to make additions, deletions, or modification to the contents on the Service at any time without prior notice.</font></string>
 

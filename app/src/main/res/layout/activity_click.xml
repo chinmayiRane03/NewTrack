@@ -64,14 +64,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            app:layout_constraintGuide_percent="0.25" />
+            app:layout_constraintGuide_percent="0.35" />
 
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/image"
             android:layout_width="0dp"
             android:layout_height="0dp"
-
             android:layout_marginTop="8dp"
             android:src="@drawable/test"
             app:civ_border_color="#20B0D1"
@@ -79,14 +78,14 @@
             app:layout_constraintBottom_toTopOf="@+id/guideline48"
             app:layout_constraintEnd_toStartOf="@+id/guideline47"
             app:layout_constraintStart_toStartOf="@+id/guideline36"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="@+id/guideline51" />
 
         <androidx.constraintlayout.widget.Guideline
             android:id="@+id/guideline49"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            app:layout_constraintGuide_percent="0.33" />
+            app:layout_constraintGuide_percent="0.45" />
 
         <ProgressBar
             android:id="@+id/progressBar"
@@ -108,7 +107,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            app:layout_constraintGuide_percent="0.53438395" />
+            app:layout_constraintGuide_percent="0.65" />
 
         <androidx.constraintlayout.widget.Guideline
             android:id="@+id/guideline50"
@@ -122,7 +121,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            app:layout_constraintGuide_begin="20dp" />
+            app:layout_constraintGuide_percent="0.08" />
 
         <ImageView
             android:id="@+id/imageView1_markzone"
@@ -164,10 +163,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            app:layout_constraintGuide_percent="0.60888255" />
+            app:layout_constraintGuide_percent="0.75" />
 
         <TextView
-            android:id="@+id/commentsss2"
+            android:id="@+id/gallery"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:autoSizeTextType="uniform"
@@ -181,7 +180,7 @@
             app:layout_constraintTop_toTopOf="@+id/guideline52" />
 
         <TextView
-            android:id="@+id/commentsss"
+            android:id="@+id/camera"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:autoSizeTextType="uniform"
@@ -199,7 +198,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            app:layout_constraintGuide_percent="0.77" />
+            app:layout_constraintGuide_percent="0.92" />
 
         <ImageView
         android:id="@+id/bmcImage"

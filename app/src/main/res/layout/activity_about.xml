@@ -61,7 +61,8 @@
             android:text="@string/describe"
             android:fontFamily="sans-serif"
             android:layout_marginTop="10dp"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="5dp"/>
         </LinearLayout>
 
     </ScrollView>
